@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "tlongmoney",
   "version": "1.0.0",
@@ -33,3 +34,40 @@
     "vitest": "^1.1.0"
   }
 }
+=======
+{
+  "name": "tlongmoney",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.1.5",
+    "@testing-library/react": "^14.1.2",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8",
+    "eslint-config-next": "^15.0.0",
+    "fast-check": "^3.15.0",
+    "happy-dom": "^12.10.3",
+    "jsdom": "^23.0.1",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0",
+    "typescript": "5.9.3",
+    "vitest": "^1.1.0"
+  }
+}
+>>>>>>> 07b58c92513982260163efa7fd25ee0ade76aacc
